@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 
 
 推算到远程分支看看有没有
+
+在dev分支修改然后推送到远程库主线,看看远程dev有没有变化
